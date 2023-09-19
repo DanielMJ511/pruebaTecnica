@@ -1,4 +1,3 @@
 # pruebaTecnica
 Usando XAMPP y VSCode.
-\n
-php, HTML , css, MySQL
+	php, HTML , css, MySQL
