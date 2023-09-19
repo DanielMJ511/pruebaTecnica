@@ -1,3 +1,3 @@
 # pruebaTecnica
 # Usando XAMPP y VSCode.
-php, HTML , css, MySQL
+# php, HTML , css, MySQL
